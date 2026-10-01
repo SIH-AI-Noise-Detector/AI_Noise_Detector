@@ -1,0 +1,8 @@
+.venv/
+data/
+src/__pycache__/
+*.zip
+.git/
+rknn_env/
+Git/
+check*.onnx
